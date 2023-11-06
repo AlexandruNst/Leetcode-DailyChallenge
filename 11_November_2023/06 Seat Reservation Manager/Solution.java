@@ -1,3 +1,5 @@
+import java.util.PriorityQueue;
+
 class SeatManager {
     PriorityQueue<Integer> pq;
     int seat;
